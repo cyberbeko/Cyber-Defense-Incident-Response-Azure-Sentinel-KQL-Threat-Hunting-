@@ -1,0 +1,2 @@
+# Cyber-Defense-Incident-Response-Azure-Sentinel-KQL-Threat-Hunting-
+Conducted a multi-stage forensic investigation and threat hunting exercise analyzing an automated data extortion campaign targeting an internet-exposed MySQL server and co-located Windows RDP surface. Integrated forensic triage packages, Defender Advanced Hunting telemetry, and custom KQL workbooks to map attack progression and geographic scope.
